@@ -75,7 +75,6 @@ CreateThread(function()
             if not v.create and (v.objectHandle == nil or not DoesEntityExist(v.objectHandle)) then
                 local obj = GetClosestObjectOfType(v.coords.x, v.coords.y, v.coords.z, 3.0, GetHashKey(v.model), false, false, false)
                 if obj ~= 0 then
-                    print("success attach")
                     SetEntityAsMissionEntity(v.objectHandle, true, true)
                     v.objectHandle = obj
                     prepareEntity(obj, k)
