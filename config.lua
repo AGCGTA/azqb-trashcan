@@ -40,29 +40,39 @@ Config.Props = {
         coords = vector4(-243.56227111816, -938.63946533203, 30.218502044678, 0.0),
         create = false,
     },
-    ["trash8231"] = {
+    ["8231"] = {
         model = "prop_bin_06a",
         coords = vector4(-1131.5643310547, -1379.6378173828, 4.1528930664062, 0.42795768380165),
         create = false,
     },
-    ["trash6154"] = {
+    ["6154"] = {
         model = "prop_bin_08a",
         coords = vector4(-574.87963867188, 519.64923095703, 105.59545135498, 353.62347412109),
         create = false,
     },
-    ["trash7195"] = {
+    ["7195"] = {
         model = "prop_bin_06a",
         coords = vector4(389.21957397461, -341.56878662109, 45.817359924316, 1.3853373527527),
         create = false,
     },
-    ["trash9383"] = {
+    ["9383"] = {
         model = "prop_dumpster_01a",
         coords = vector4(1690.2436523438, -1743.45703125, 111.21929931641, 10.729683876038),
         create = false,
     },
-    ["trash10130"] = {
+    ["10130"] = {
         model = "prop_bin_07d",
         coords = vector4(818.51300048828, -2999.994140625, 5.022057056427, 359.99829101562),
+        create = false,
+    },
+    ["tuners1"] = {
+        model = "prop_dumpster_02b",
+        coords = vector4(156.83995056152, -3014.9658203125, 5.025866985321, 125.49290466309),
+        create = false,
+    },
+    ["tuners2"] = {
+        model = "prop_dumpster_02b",
+        coords = vector4(156.86447143555, -3012.8605957031, 5.025908946991, 90.004119873047),
         create = false,
     },
 }
