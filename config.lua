@@ -80,4 +80,19 @@ Config.Props = {
         coords = vector4(439.23413085938, -976.72412109375, 29.689039230347, 81.163963317871),
         create = false,
     },
+    ["10096_01"] = {
+        model = "prop_skip_05b",
+        coords = vector4(444.40008544922, -3050.4301757812, 5.0655589103699, 271.97232055664),
+        create = false,
+    },    
+    ["7246_mayor_earth"] = {
+        model = "sum_prop_ac_drinkglobe_01a",
+        coords = vector4(-535.25433349609, -192.53120422363, 42.363468170166, 264.99298095703),
+        create = false,
+    },
+    ["7246_out"] = {
+        model = "prop_elecbox_11",
+        coords = vector4(-503.11480712891, -176.84677124023, 36.844512939453, 296.75140380859),
+        create = false,
+    },
 }
